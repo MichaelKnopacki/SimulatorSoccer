@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulator</string>
+
+    <string name="cd_simulate">Botão de simulação de partidas.</string>
+    <string name="cd_home_team">Image do time mandante.</string>
+    <string name="cd_away_team">Image do time visitante.</string>
+    <string name="error_api">Erro Inesperado.</string>
+</resources>
